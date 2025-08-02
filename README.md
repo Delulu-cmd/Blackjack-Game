@@ -34,7 +34,7 @@ Follow these steps to get the game up and running on your local machine:
 
 3. **Make sure Python is installed and properly configured.**
    
-    You can check this by running:
+    _You can check this by running:_
     
     python --version
 
@@ -45,7 +45,7 @@ Follow these steps to get the game up and running on your local machine:
     python blackjack.py
 
 
-5. When prompted, type y to begin. You’ll see the "**BLACKJACK**" title display in large ASCII art — and you’re in!
+5. When prompted, type **"y"** to begin. You’ll see the "**BLACKJACK**" title display in large ASCII art — and you’re in!
 Good luck! 🍀
 
 
