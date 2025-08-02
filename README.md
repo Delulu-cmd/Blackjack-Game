@@ -7,7 +7,7 @@
 ## 🎮 How to Play
 
 - Blackjack is all about getting closer to **21** than the dealer without going over.
-- You’ll be playing as the **User**, and the computer will act as the **Dealer**.
+- You’ll be playing as the **User**, and the computer will act as the **Computer**.
 - Visit the official rules here for a full breakdown:  
   👉 [Blackjack Rules – Wikipedia](https://en.wikipedia.org/wiki/Blackjack#Rules_of_play_at_casinos)
 
@@ -34,16 +34,15 @@ Follow these steps to get the game up and running on your local machine:
 
 3. **Make sure Python is installed and properly configured.**
    
-You can check this by running:
-
-bash
-python --version
+    You can check this by running:
+    
+    python --version
 
 
 4. **Run the game**
 
-bash
-python blackjack.py
+
+    python blackjack.py
 
 
 5. When prompted, type y to begin. You’ll see the "**BLACKJACK**" title display in large ASCII art — and you’re in!
