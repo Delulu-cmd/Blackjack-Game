@@ -1,5 +1,6 @@
 import random
 import art
+print(art.blackjack_logo);
 
 
 def deal_card():
